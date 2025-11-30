@@ -1,0 +1,2 @@
+# -GuardianOS-The-Black-Swan-Shield-Ontology-Independent-Ethics-OIE-for-Collapse-Resilient-AGI
+📌 Overview  GuardianOS™ is an alignment architecture built on Ontology-Independent Ethics™ (OIE) — a framework designed to remain coherent even when meaning, semantics, or ontological assumptions collapse.  Where traditional safety methods rely on definitions, rules, or language, GuardianOS encodes structural moral invariants 
